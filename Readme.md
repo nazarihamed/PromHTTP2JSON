@@ -1,0 +1,1 @@
+This project converts prometheus metrics from plain text into JSON.
